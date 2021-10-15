@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "40DB1VROyp+zEyNrxgWgUqh3ZPENO7U8ZwI1r72KHUfA97foM6FTH3hArJ0QKgzR61obUadVN+YCSrRtimVWaA==",
+  "dgSpecHash": "VPVbeo5W2reBaO1/1kwhdqIKdR4SbaAN9txcTkUUKLAVFwWNdErWukPRRqKIgszfYvi7zDNx6tE+n1t0a/gC/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nguyen Huy Tuan\\Desktop\\CaroLanGame\\caroGame\\caroGame\\caroGame.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Nguyen Huy Tuan\\.nuget\\packages\\visualstudio.gitignore\\1.0.1\\visualstudio.gitignore.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
